@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Push notifications</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Push-notifications">
+            <circle id="Oval" fill="#006DEF" cx="60" cy="60" r="60"></circle>
+            <g id="Page-1" transform="translate(37.000000, 14.000000)" fill="#353E44">
+                <path d="M45.7167615,89.7926619 C45.713637,91.0020647 44.6877502,91.9826259 43.4256143,91.9826259 L2.27956906,91.9824604 C1.01743321,91.9824604 -0.00324603774,91.0020647 5.20754717e-05,89.7924964 L0.230399245,2.18996403 C0.233523774,0.980561151 1.25941057,0 2.52154642,0 L43.6675917,0.000165467626 C44.9297275,0.000165467626 45.9504068,0.980561151 45.9471087,2.1901295 L45.7167615,89.7926619 Z" id="Fill-1"></path>
+            </g>
+            <rect id="Rectangle" fill="#FFFFFF" x="41" y="21" width="38" height="78"></rect>
+            <polygon id="Fill-170" fill="#353E44" points="68.5567098 47 57.3716792 60.4221731 50.8640158 55.1345367 47 59.8120743 53.3044109 65.0995402 57.981778 69.1668086 62.0490463 64.4894414 73.4375 50.8640158"></polygon>
+        </g>
+    </g>
+</svg>
